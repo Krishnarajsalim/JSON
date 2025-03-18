@@ -1,94 +1,99 @@
 {
-  "data": [
-    {
-      "image": "icon-internet-world-hands-businessman-network-technology-communication-scaled",
-      "title": "Internet",
-      "description": ""
-    },
-    {
-      "image": "qatar_logo.png",
-      "title": "Qatar",
-      "description": ""
-    },
-    {
-      "image": "105286198-612x612.jpg",
-      "title": "Giraffe",
-      "description": ""
-    },
-    {
-      "image": "pexels-pixabay-259526.jpg",
-      "title": "Wilderness",
-      "description": ""
-    },
-    {
-      "image": "red-panda-header.jpg",
-      "title": "Red Panda",
-      "description": ""
-    },
-    {
-      "image": "skyscrapers-3850732_640.jpg",
-      "title": "Skyscrapers",
-      "description": ""
-    },
-    {
-      "image": "360_F_270350073_WO6yQAdptEnAhYKM5GuA9035wbRnVJSr.jpg",
-      "title": "Mountains",
-      "description": ""
-    },
-    {
-      "image": "360_F_281897358_3rj9ZBSZHo5s0L1ug7uuIHadSxh9Cc75.jpg",
-      "title": "Skyscrapers",
-      "description": ""
-    },
-    {
-      "image": "1325ef30-1648-451b-b68e-8183c2ef6f70 copy.png",
-      "title": "Frog",
-      "description": ""
-    },
-    {
-      "image": "1520839324-612x612.jpg",
-      "title": "Elephant",
-      "description": ""
-    },
-    {
-      "image": "bird-8788491_1280.png",
-      "title": "Bird",
-      "description": ""
-    },
-    {
-      "image": "photos-images-pictures-ss-1920.jpg",
-      "title": "Frames",
-      "description": ""
-    },
-    {
-      "image": "pexels-ralph-chang-260364-866398.jpg",
-      "title": "Bridge",
-      "description": ""
-    },
-    {
-      "image": "pexels-hsapir-1054655.jpg",
-      "title": "Elephant",
-      "description": ""
-    },
-    {
-      "image": "d1026205392-612x612.jpg",
-      "title": "House",
-      "description": ""
-    },
-    {
-      "image": "1325ef30-1648-451b-b68e-8183c2ef6f70 copy.png",
-      "title": "Frog",
-      "description": ""
-    },
-    {
-      "image": "purple-daisy-nature_24877-81723.avif",
-      "title": "Daisy",
-      "description": ""
-    },
-    {
-      "image": "pexels-mikebirdy-3729464.jpg",
-      "title": "Car",
-      "description": ""
-    }
-  ]
+    "data": [
+        {
+            "image": "qatar_logo.png",
+            "title": "Qatar",
+            "description": ""
+        },
+        {
+            "image": "icon-internet-world-hands-businessman-network-technology-communication-scaled",
+            "title": "Internet",
+            "description": ""
+        },
+        {
+            "image": "105286198-612x612.jpg",
+            "title": "Giraffe",
+            "description": ""
+        },
+        {
+            "image": "pexels-pixabay-259526.jpg",
+            "title": "Wilderness",
+            "description": ""
+        },
+        {
+            "image": "red-panda-header.jpg",
+            "title": "Red Panda",
+            "description": ""
+        },
+        {
+            "image": "skyscrapers-3850732_640.jpg",
+            "title": "Skyscrapers",
+            "description": ""
+        },
+        {
+            "image": "360_F_270350073_WO6yQAdptEnAhYKM5GuA9035wbRnVJSr.jpg",
+            "title": "Mountains",
+            "description": ""
+        },
+        {
+            "image": "360_F_281897358_3rj9ZBSZHo5s0L1ug7uuIHadSxh9Cc75.jpg",
+            "title": "Skyscrapers",
+            "description": ""
+        },
+        {
+            "image": "1325ef30-1648-451b-b68e-8183c2ef6f70 copy.png",
+            "title": "Frog",
+            "description": ""
+        },
+        {
+            "image": "1520839324-612x612.jpg",
+            "title": "Elephant",
+            "description": ""
+        },
+        {
+            "image": "bird-8788491_1280.png",
+            "title": "Bird",
+            "description": ""
+        },
+        {
+            "image": "photos-images-pictures-ss-1920.jpg",
+            "title": "Frames",
+            "description": ""
+        },
+        {
+            "image": "pexels-ralph-chang-260364-866398.jpg",
+            "title": "Bridge",
+            "description": ""
+        },
+        {
+            "image": "",
+            "title": "Empty data",
+            "description": ""
+        },
+        {
+            "image": "pexels-hsapir-1054655.jpg",
+            "title": "Elephant",
+            "description": ""
+        },
+        {
+            "image": "d1026205392-612x612.jpg",
+            "title": "House",
+            "description": ""
+        },
+        {
+            "image": "1325ef30-1648-451b-b68e-8183c2ef6f70 copy.png",
+            "title": "Frog",
+            "description": ""
+        },
+        {
+            "image": "purple-daisy-nature_24877-81723.avif",
+            "title": "Daisy",
+            "description": ""
+        },
+        {
+            "image": "pexels-mikebirdy-3729464.jpg",
+            "title": "Car",
+            "description": ""
+        }
+    ]
 }
