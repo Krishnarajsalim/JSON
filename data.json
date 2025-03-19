@@ -4,92 +4,126 @@
         {
             "image": "qatar_logo.png",
             "title": "Qatar",
-            "description": "Qatar is a small, wealthy country located in the Middle East on the northeastern coast of the Arabian Peninsula. It shares its only land border with Saudi Arabia and is surrounded by the Persian Gulf. The capital city, Doha, serves as the political, economic, and cultural hub of the nation.\nQatar is known for its vast natural gas and oil reserves, making it one of the richest countries in the world in terms of GDP per capita. The country has invested heavily in infrastructure, tourism, and sports, hosting major international events such as the FIFA World Cup 2022.\nGoverned as a constitutional monarchy, Qatar is ruled by the Al Thani family. It maintains strong diplomatic and economic ties worldwide. Despite its small size, Qatar has a strong cultural identity, blending traditional Arabian heritage with modern development. It continues to expand its global presence through investments in technology, education, and sports."
+            "title_ar": "قطر",
+            "description": "Qatar is a small, wealthy country located in the Middle East on the northeastern coast of the Arabian Peninsula. It shares its only land border with Saudi Arabia and is surrounded by the Persian Gulf. The capital city, Doha, serves as the political, economic, and cultural hub of the nation.\nQatar is known for its vast natural gas and oil reserves, making it one of the richest countries in the world in terms of GDP per capita. The country has invested heavily in infrastructure, tourism, and sports, hosting major international events such as the FIFA World Cup 2022.\nGoverned as a constitutional monarchy, Qatar is ruled by the Al Thani family. It maintains strong diplomatic and economic ties worldwide. Despite its small size, Qatar has a strong cultural identity, blending traditional Arabian heritage with modern development. It continues to expand its global presence through investments in technology, education, and sports.",
+            "description_ar": "قطر هي دولة صغيرة وغنية تقع في الشرق الأوسط على الساحل الشمالي الشرقي لشبه الجزيرة العربية. تشترك في حدودها البرية الوحيدة مع المملكة العربية السعودية، وتحيط بها مياه الخليج العربي. عاصمتها، الدوحة، تعد المركز السياسي والاقتصادي والثقافي للبلاد. تشتهر قطر بثرواتها الهائلة من الغاز الطبيعي والنفط، مما يجعلها واحدة من أغنى دول العالم من حيث الناتج المحلي الإجمالي للفرد. وقد استثمرت بشكل كبير في البنية التحتية والسياحة والرياضة، واستضافت أحداثًا عالمية كبرى مثل كأس العالم لكرة القدم 2022. تحكم قطر بنظام ملكي دستوري، حيث تتولى أسرة آل ثاني الحكم. وتحافظ على علاقات دبلوماسية واقتصادية قوية على مستوى العالم. وعلى الرغم من صغر حجمها، تمتلك قطر هوية ثقافية قوية تمزج بين التراث العربي التقليدي والتطور الحديث، وتواصل توسيع حضورها العالمي من خلال الاستثمارات في التكنولوجيا والتعليم والرياضة."
         },
         {
             "image": "icon-internet-world-hands-businessman-network-technology-communication-scaled",
-            "title": "Internet",
-            "description": "The Internet is a global network that connects billions of devices, enabling communication, information sharing, and online services. It operates through a system of interconnected networks using standardized protocols like TCP/IP (Transmission Control Protocol/Internet Protocol)."
+            "title": "إنترنت",
+            "title_ar": "قطر",
+            "description": "The Internet is a global network that connects billions of devices, enabling communication, information sharing, and online services. It operates through a system of interconnected networks using standardized protocols like TCP/IP (Transmission Control Protocol/Internet Protocol).",
+            "description_ar": "الإنترنت هو شبكة عالمية تربط مليارات الأجهزة، مما يتيح التواصل وتبادل المعلومات وتقديم الخدمات عبر الإنترنت. يعمل من خلال نظام من الشبكات المترابطة باستخدام بروتوكولات موحدة مثل **TCP/IP** (بروتوكول التحكم في الإرسال/بروتوكول الإنترنت)."
         },
         {
             "image": "105286198-612x612.jpg",
             "title": "Giraffe",
-            "description": "The giraffe (Giraffa camelopardalis) is the tallest land animal, native to the savannas and open woodlands of Africa. Known for its long neck, distinctive coat patterns, and towering height, giraffes can grow up to 5.5 meters (18 feet) tall. Giraffes are herbivores, primarily eating leaves, flowers, and fruits. They inhabit regions across Sub-Saharan Africa, preferring open landscapes with scattered trees."
+            "title_ar": "زرافة",
+            "description": "The giraffe (Giraffa camelopardalis) is the tallest land animal, native to the savannas and open woodlands of Africa. Known for its long neck, distinctive coat patterns, and towering height, giraffes can grow up to 5.5 meters (18 feet) tall. Giraffes are herbivores, primarily eating leaves, flowers, and fruits. They inhabit regions across Sub-Saharan Africa, preferring open landscapes with scattered trees.",
+            "description_ar": "الزرافة (*Giraffa camelopardalis*) هي أطول حيوان بري، موطنها السافانا والغابات المفتوحة في إفريقيا. تُعرف برقبتها الطويلة، ونقوشها المميزة على الجلد، وارتفاعها الشاهق، حيث يمكن أن يصل طولها إلى 5.5 مترًا (18 قدمًا). الزرافات حيوانات عاشبة، وتتغذى بشكل أساسي على الأوراق والزهور والفاكهة. تعيش في مناطق مختلفة عبر إفريقيا جنوب الصحراء، ويفضل وجودها في المناظر الطبيعية المفتوحة التي تنتشر فيها الأشجار."
         },
         {
             "image": "pexels-pixabay-259526.jpg",
             "title": "Wilderness",
-            "description": ""
+            "title_ar": "",
+            "description": "",
+            "description_ar": ""
         },
         {
             "image": "red-panda-header.jpg",
             "title": "Red Panda",
-            "description": "The red panda (Ailurus fulgens) is a small, tree-dwelling mammal native to the eastern Himalayas and southwestern China. Despite its name, the red panda is not closely related to giant pandas but belongs to its own unique family, Ailuridae."
+            "title_ar": "الباندا الحمراء",
+            "description": "The red panda (Ailurus fulgens) is a small, tree-dwelling mammal native to the eastern Himalayas and southwestern China. Despite its name, the red panda is not closely related to giant pandas but belongs to its own unique family, Ailuridae.",
+            "description_ar": "الباندا الأحمر (*Ailurus fulgens*) هو حيوان ثديي صغير يعيش على الأشجار، موطنه الأصلي جبال الهيمالايا الشرقية وجنوب غرب الصين. وعلى الرغم من اسمه، فإن الباندا الأحمر ليس قريبًا من الباندا العملاق، بل ينتمي إلى عائلته الخاصة والفريدة، *Ailuridae*."
         },
         {
             "image": "skyscrapers-3850732_640.jpg",
             "title": "Skyscrapers",
-            "description": "Skyscrapers are tall, multi-story buildings that dominate city skylines, typically exceeding 150 meters (492 feet) in height. They are designed to maximize space in urban areas, housing offices, residences, hotels, or mixed-use facilities."
+            "title_ar": "ناطحات السحاب",
+            "description": "Skyscrapers are tall, multi-story buildings that dominate city skylines, typically exceeding 150 meters (492 feet) in height. They are designed to maximize space in urban areas, housing offices, residences, hotels, or mixed-use facilities.",
+            "description_ar": "ناطحات السحاب هي مبانٍ شاهقة متعددة الطوابق تهيمن على أفق المدن، ويزيد ارتفاعها عادةً عن 150 مترًا (492 قدمًا). تم تصميمها لتعظيم استخدام المساحات في المناطق الحضرية، حيث تضم مكاتب أو مساكن أو فنادق أو مرافق متعددة الاستخدامات."
         },
         {
             "image": "360_F_270350073_WO6yQAdptEnAhYKM5GuA9035wbRnVJSr.jpg",
             "title": "Mountains",
-            "description": "Mountains are large landforms that rise significantly above the surrounding terrain, typically formed through tectonic activity, volcanic eruptions, or erosion. They play a crucial role in shaping Earth's geography and climate."
+            "title_ar": "الجبال",
+            "description": "Mountains are large landforms that rise significantly above the surrounding terrain, typically formed through tectonic activity, volcanic eruptions, or erosion. They play a crucial role in shaping Earth's geography and climate.",
+            "description_ar": "الجبال هي تضاريس كبيرة ترتفع بشكل ملحوظ فوق المناطق المحيطة بها، وتتكون عادةً نتيجة النشاط التكتوني أو الثوران البركاني أو التآكل. وتلعب دورًا حيويًا في تشكيل جغرافيا الأرض ومناخها."
         },
         {
             "image": "360_F_281897358_3rj9ZBSZHo5s0L1ug7uuIHadSxh9Cc75.jpg",
             "title": "Skyscrapers",
-            "description": ""
+            "title_ar": "ناطحات السحاب",
+            "description": "",
+            "description_ar": ""
         },
         {
             "image": "1520839324-612x612.jpg",
             "title": "Elephant",
+            "title_ar": "الفيل",
             "description": "The elephant is the largest land mammal, known for its intelligence, strong social bonds, and distinctive features like a long trunk and large ears"
         },
         {
             "image": "bird-8788491_1280.png",
             "title": "Bird",
-            "description": "Birds are warm-blooded, feathered vertebrates belonging to the class Aves. They are found in nearly every habitat on Earth, from forests and mountains to deserts and oceans. Birds are known for their ability to fly, although some species are flightless."
+            "title_ar": "طائر",
+            "description": "Birds are warm-blooded, feathered vertebrates belonging to the class Aves. They are found in nearly every habitat on Earth, from forests and mountains to deserts and oceans. Birds are known for their ability to fly, although some species are flightless.",
+            "description_ar": "الطيور هي فقاريات ذات دم دافئ ومغطاة بالريش، وتنتمي إلى فئة *Aves*. تعيش في مختلف البيئات على الأرض، من الغابات والجبال إلى الصحاري والمحيطات. تشتهر الطيور بقدرتها على الطيران، رغم أن بعض الأنواع غير قادرة على الطيران."
         },
         {
             "image": "photos-images-pictures-ss-1920.jpg",
             "title": "Frames",
-            "description": ""
+            "title_ar": "إطارات",
+            "description": "",
+            "description_ar": ""
         },
         {
             "image": "pexels-ralph-chang-260364-866398.jpg",
             "title": "Bridge",
-            "description": "A bridge is a structure built to span a physical obstacle, such as a river, valley, or road, allowing for transportation and connectivity. Bridges are essential for infrastructure, trade, and travel, improving accessibility between regions."
+            "title_ar": "كوبري",
+            "description": "A bridge is a structure built to span a physical obstacle, such as a river, valley, or road, allowing for transportation and connectivity. Bridges are essential for infrastructure, trade, and travel, improving accessibility between regions.",
+            "description_ar": "الجسر هو هيكل يُبنى ليمتد عبر عائق مادي، مثل نهر أو وادٍ أو طريق، مما يسمح بمرور وسائل النقل وتعزيز الترابط. تعد الجسور عنصرًا أساسيًا في البنية التحتية والتجارة والسفر، حيث تسهم في تحسين الوصول بين المناطق."
         },
         {
             "image": "",
             "title": "Empty data",
-            "description": ""
+            "description": "",
+            "description_ar": ""
         },
         {
             "image": "pexels-hsapir-1054655.jpg",
             "title": "Elephant",
-            "description": ""
+            "title_ar": "الفيل",
+            "description": "",
+            "description_ar": ""
         },
         {
             "image": "d1026205392-612x612.jpg",
             "title": "House",
-            "description": "A house is a structure built for people to live in, providing shelter, security, and comfort. Houses vary widely in design, materials, and features based on climate, culture, and technology."
+            "title_ar": "منزل",
+            "description": "A house is a structure built for people to live in, providing shelter, security, and comfort. Houses vary widely in design, materials, and features based on climate, culture, and technology.",
+            "description_ar": "المنزل هو هيكل يُبنى ليكون مأوى للناس، حيث يوفر الحماية والأمان والراحة. تختلف المنازل بشكل كبير في التصميم والمواد والميزات، وذلك حسب المناخ والثقافة والتكنولوجيا."
         },
         {
             "image": "Planet.png",
             "title": "Planet",
-            "description": "A planet is a celestial body that orbits a star, has sufficient gravity to form a nearly round shape, and has cleared its orbit of other debris. Planets are a fundamental part of the universe, with different types found in our Solar System and beyond (exoplanets)."
+            "title_ar": "كوكب",
+            "description": "A planet is a celestial body that orbits a star, has sufficient gravity to form a nearly round shape, and has cleared its orbit of other debris. Planets are a fundamental part of the universe, with different types found in our Solar System and beyond (exoplanets).",
+            "description_ar": "الكوكب هو جرم سماوي يدور حول نجم، ويمتلك جاذبية كافية ليأخذ شكلًا شبه كروي، كما أنه قد أزال الأجسام الأخرى من مداره. تُعد الكواكب جزءًا أساسيًا من الكون، حيث توجد بأنواع مختلفة داخل نظامنا الشمسي وخارجه (الكواكب الخارجية)."
         },
         {
             "image": "purple-daisy-nature_24877-81723.png",
             "title": "Daisy",
-            "description": "The daisy is a cheerful, widely recognized flower belonging to the Asteraceae family. Known for its simple beauty, it features a bright yellow center (disk florets) surrounded by white, pink, or purple petals (ray florets)."
+            "title_ar": "ديزي",
+            "description": "The daisy is a cheerful, widely recognized flower belonging to the Asteraceae family. Known for its simple beauty, it features a bright yellow center (disk florets) surrounded by white, pink, or purple petals (ray florets).",
+            "description_ar": "زهرة الأقحوان هي زهرة مبهجة ومعروفة على نطاق واسع، وتنتمي إلى عائلة *Asteraceae*. تشتهر ببساطتها الجميلة، حيث تتميز بمركز أصفر ساطع (زهيرات قرصية) محاط بتلات بيضاء أو وردية أو أرجوانية (زهيرات شعاعية)."
         },
         {
             "image": "pexels-mikebirdy-3729464.jpg",
             "title": "Car",
-            "description": ""
+            "title_ar": "سيارة",
+            "description": "",
+            "description_ar": ""
         }
     ]
 }
