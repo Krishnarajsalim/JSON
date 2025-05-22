@@ -1,0 +1,21 @@
+{
+  "Response": {
+    "status": true,
+    "message": "Success",
+    "result": {
+      "city": "Doha",
+      "dateTime": "1747891667",
+      "weather_icon": "sun.png",
+      "temp": 41.5,
+      "unit": "°C",
+      "weather": "clear",
+      "feels_like": "43",
+      "high": 43,
+      "low": 31.5,
+      "humi": "26%",
+      "wind_direction": "NE",
+      "wind_speed": 7,
+      "wind_speed_unit": "kt"
+    }
+  }
+}
