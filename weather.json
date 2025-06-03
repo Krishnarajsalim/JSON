@@ -3,19 +3,19 @@
     "status": true,
     "message": "Success",
     "result": {
-      "city": "Doha",
-      "dateTime": "1747891667",
+      "city": "Doha.",
+      "dateTime": "1947899697",
       "weather_icon": "sun.png",
-      "temp": 41.5,
+      "temp": 42.8,
       "unit": "°C",
-      "weather": "clear",
+      "weather": "hot",
       "feels_like": "43",
-      "high": 43,
-      "low": 31.5,
-      "humi": "26%",
-      "wind_direction": "NE",
-      "wind_speed": 7,
-      "wind_speed_unit": "kt"
+      "high": 44,
+      "low": 32.5,
+      "humi": "24%",
+      "wind_direction": "N",
+      "wind_speed": 8.3,
+      "wind_speed_unit": "m/s"
     }
   }
 }
