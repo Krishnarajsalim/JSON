@@ -3,19 +3,19 @@
     "status": true,
     "message": "Success",
     "result": {
-      "city": "Doha.",
-      "dateTime": "1947899697",
+      "city": "Madīnat ash Shamāl",
+      "dateTime": "1758257030",
       "weather_icon": "sun.png",
-      "temp": 43.8,
+      "temp": 63,
       "unit": "°C",
       "weather": "hot",
-      "feels_like": "43",
-      "high": 45.0,
-      "low": 31,
-      "humi": "22%",
-      "wind_direction": "E",
-      "wind_speed": 10.83,
-      "wind_speed_unit": "k/s"
+      "feels_like": "10",
+      "high": 99.8,
+      "low": 10.3,
+      "humi": "19%",
+      "wind_direction": "S",
+      "wind_speed": 1,
+      "wind_speed_unit": "m/s"
     }
   }
 }
