@@ -6,16 +6,16 @@
       "city": "Doha.",
       "dateTime": "1947899697",
       "weather_icon": "sun.png",
-      "temp": 42.8,
+      "temp": 43.8,
       "unit": "°C",
       "weather": "hot",
       "feels_like": "43",
-      "high": 44,
-      "low": 32.5,
-      "humi": "24%",
-      "wind_direction": "N",
-      "wind_speed": 8,
-      "wind_speed_unit": "m/s"
+      "high": 45.0,
+      "low": 31,
+      "humi": "22%",
+      "wind_direction": "E",
+      "wind_speed": 10.8,
+      "wind_speed_unit": "k/s"
     }
   }
 }
