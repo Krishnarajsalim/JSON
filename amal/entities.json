@@ -1,0 +1,12 @@
+{
+  "entities": [
+    {
+    "title": "entity1",
+    "value": 80
+    }, 
+    {
+      "title": "entity2",
+      "value": 36
+    }
+  ]
+}
