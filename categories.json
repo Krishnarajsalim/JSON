@@ -1,0 +1,17 @@
+{
+  data: {
+    "Fruits": [
+      'Apple',
+      'Banana',
+      'Orange'
+    ],
+    "Vegetables": [
+      'Carrot',
+      'Potato'
+    ],
+    "Drinks": [
+      'Water',
+      'Tea'
+    ]
+  }
+}
